@@ -1,0 +1,4 @@
+interface:
+  display_name: "营销方法导航"
+  short_description: "定位业务增长卡点，选择优先营销方法，直接生成简洁且图文并茂的分析网页"
+  default_prompt: "使用 $marketing-method-finder，分析我的业务该优先采用什么营销方法，直接生成简洁、图文并茂的分析网页。"
