@@ -68,10 +68,15 @@ marketing-method-finder/
 └── references/
     ├── method-map.md                  # 方法与专项 skill 匹配
     ├── web-report.md                  # 图文网页交付规范
-    └── channel-execution.md           # KOL、SEO、Google Ads 等执行要求
+    ├── channel-execution.md           # KOL、SEO、Google Ads 等执行要求
+    └── stage-channel-framework.md     # 阶段判断与更多出海渠道
 ```
 
 ## 使用边界
+
+决策采用“阶段证据 → 增长瓶颈 → 渠道选择 → 产品内目标动作”。除 KOL、SEO 和广告，还按需要比较产品发布/目录、垂直社区、Build in Public、视频、ASO、产品内传播、开源/集成与销售。不会只凭用户数量判断 PMF，也不会照搬固定佣金或历史案例收益。
+
+框架参考用户提供的[出海增长文章](https://x.com/tinyray1314/status/2089227009029509258)，已转为条件式决策与执行规则；原文案例数字与平台现状需另行核实。
 
 不编造用户数据、转化率、评价或收益预测。不会因为选择了营销方法，就自动获得投放预算、发布内容、发送外联或修改账户的授权。已有明确的专项任务时，应直接使用相应 skill。
 
