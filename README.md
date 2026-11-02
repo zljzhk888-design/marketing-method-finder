@@ -66,18 +66,21 @@ marketing-method-finder/
 ├── agents/openai.yaml                 # Codex 展示信息
 └── references/
     ├── method-map.md                  # 方法与专项 skill 匹配
-    ├── web-report.md                  # 图文网页交付规范
-    └── behavioral-marketing.md        # 行为科学书单与应用导航
+    └── web-report.md                  # 图文网页交付规范
 ```
-
-## 行为科学资料
-
-参考资料收藏包括 Thinking, Fast and Slow、Predictably Irrational、Nudge、How to Change、Noise、The Power of Experiments 等书，以及 Choiceology、Freakonomics Radio 等播客。完整清单见 [行为科学资料与应用](references/behavioral-marketing.md)。
-
-这些资料用于提出「行为障碍 → 可能机制 → 干预 → 指标」的待验证假设。收藏不代表已读取全文；具体研究、数据与引文需要核实。仓库不包含书籍全文或播客音频，也不把心理学概念当作营销效果保证。
 
 ## 使用边界
 
 不编造用户数据、转化率、评价或收益预测。不会因为选择了营销方法，就自动获得投放预算、发布内容、发送外联或修改账户的授权。已有明确的专项任务时，应直接使用相应 skill。
 
 欢迎通过 Issues 反馈真实使用中的误判与改进建议，请避免提交客户隐私、素材或账户凭据。
+
+## 联系作者 · Rika
+
+- 推特 / X：[@Web3rika](https://x.com/Web3rika)
+- 小红书：[Rika 的小红书](https://xhslink.cn/o/9dp4HKg0lqm)
+- 微信：`wincrypto`
+
+欢迎交流使用反馈与营销实践。也可以扫描下方二维码添加微信：
+
+<img src="assets/wechat-rika.png" alt="Rika 微信二维码，微信号 wincrypto" width="320">
